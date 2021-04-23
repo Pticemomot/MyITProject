@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">myDraw</string>
+    <string name="switch_color">Switch color</string>
+</resources>
